@@ -1,0 +1,19 @@
+{
+  "name": "common-logger",
+  "version": "0.0.0",
+  "description": "Common logger for javascript projects at Nosebit.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Fonseca",
+  "license": "ISC",
+  "dependencies": {
+    "logstash": "^1.0.17",
+    "moment": "^2.17.1"
+  },
+  "devDependencies": {
+    "winston": "^2.3.0",
+    "winston-logstash": "^0.3.0"
+  }
+}
