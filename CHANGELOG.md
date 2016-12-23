@@ -2,3 +2,5 @@
 INI : Add gitignore, changelog and readme files.
 FEA : Add basic functionality.
 FEA : Add react-native specific logger.
+FEA : Add index.js that dinamically return a correct logger for the environment.
+ENH : Better logging for react-native.
