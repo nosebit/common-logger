@@ -8,3 +8,4 @@ ENH : Set node script as default script and remove root index.js.
 FEA : Add service_index to logger meta data.
 ENH : Change serice key of logger meta to service_name.
 FEA : Add hostname to logger meta data.
+FEA : Set logger level to debug in development env.
