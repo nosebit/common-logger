@@ -12,3 +12,4 @@ FEA : Set logger level to debug in development env.
 BUG : Missing level config in winston transport instantiation.
 ENH : Set logger level to debug for any env except production.
 FIX : Fix changelog.
+ENH : Apply eslint recommended syntax.
