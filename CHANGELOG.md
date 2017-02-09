@@ -10,3 +10,5 @@ ENH : Change serice key of logger meta to service_name.
 FEA : Add hostname to logger meta data.
 FEA : Set logger level to debug in development env.
 BUG : Missing level config in winston transport instantiation.
+ENH : Set logger level to debug for any env except production.
+FIX : Fix changelog.
