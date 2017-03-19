@@ -14,3 +14,4 @@ ENH : Set logger level to debug for any env except production.
 FIX : Fix changelog.
 ENH : Apply eslint recommended syntax.
 FEA : Add options to LoggerFactory create method.
+FEA : Add level static property to LoggerFactory that controls global logger level.
