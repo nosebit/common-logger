@@ -15,3 +15,5 @@ FIX : Fix changelog.
 ENH : Apply eslint recommended syntax.
 FEA : Add options to LoggerFactory create method.
 FEA : Add level static property to LoggerFactory that controls global logger level.
+FEA : Log to files when enabled.
+BUG : Correct a bug with level change of single winston logger instance.
